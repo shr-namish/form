@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #e8f6ef;
+}
+
+.logo {
+  float: left;
+}
+
+.nav-menu {
+  float: right;
+  list-style-type: none;
+}
+.nav-item {
+  display: inline-block;
+}
